@@ -8,5 +8,5 @@
   <li>Make GUI more presentable</li>
   <li>Add 100+ more webpages to signup the TARGET email for</li>
   <li>Add Ability to target phone numbers via forwarding</li>
-  <li>Make installation/usage docs</li>=
+  <li>Make installation/usage docs</li>
 </ul>
